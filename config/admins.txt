@@ -5,12 +5,3 @@ w######################################################################
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
 
-snow5445 = Goose
-
-Sose96 = Admin Director
-
-justanothergriefer = Admin Director
-
-Benblu = Admin
-
-Nick123q23 = Administrator
